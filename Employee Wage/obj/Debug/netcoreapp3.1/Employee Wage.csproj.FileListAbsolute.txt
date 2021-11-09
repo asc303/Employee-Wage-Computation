@@ -1,5 +1,0 @@
-C:\Users\Ashutosh Singh\source\repos\Employee Wage\Employee Wage\obj\Debug\netcoreapp3.1\Employee Wage.csproj.AssemblyReference.cache
-C:\Users\Ashutosh Singh\source\repos\Employee Wage\Employee Wage\obj\Debug\netcoreapp3.1\Employee Wage.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Ashutosh Singh\source\repos\Employee Wage\Employee Wage\obj\Debug\netcoreapp3.1\Employee Wage.AssemblyInfoInputs.cache
-C:\Users\Ashutosh Singh\source\repos\Employee Wage\Employee Wage\obj\Debug\netcoreapp3.1\Employee Wage.AssemblyInfo.cs
-C:\Users\Ashutosh Singh\source\repos\Employee Wage\Employee Wage\obj\Debug\netcoreapp3.1\Employee Wage.csproj.CoreCompileInputs.cache
